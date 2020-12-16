@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b97f3ef6_002D1bee_002D484c_002D87c2_002D4f8bea3d4b11/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IGetListOfPartmerFromValtechSite" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E09654EF-6587-4F81-9735-BF2428E3D43B::.NETFramework,Version=v4.7::TestProject.Features.TestTasksFeature.IGetListOfPartmerFromValtechSite&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E09654EF-6587-4F81-9735-BF2428E3D43B::.NETFramework,Version=v4.7::TestProject.Features.TestTasksFeature.IGetListOfUKOfficesFromValtechSite&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
